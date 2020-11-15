@@ -1,0 +1,12 @@
+apache maven shade plugin - tworzysz jara w którym jest wszystko potrzebne do wywołania programu
+żeby to dodać wklejasz to co między <build> do pom.xml
+
+poczytać co to suma kontrolna, hash, md5, sha256
+poczytać o kolekcjach javy
+poczytać o lomboku i delombok, jak chcesz używać to zainstaluj plugin do intelIJ (ctrl+alt+s)-> plugins
+poczytać o dependency injection, testach, JUnit, testy jednostkowe/Unitowe
+-,- docker
+API
+restApi
+czysty kod
+

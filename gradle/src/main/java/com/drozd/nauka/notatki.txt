@@ -1,0 +1,2 @@
+apache maven shade plugin - tworzysz jara w którym jest wszystko potrzebne do wywołania programu
+żeby to dodać wklejasz to co między <build> do pom.xml
